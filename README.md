@@ -8,12 +8,12 @@ Add the following to your `deps.ts`
 export {
   testEach,
   TestCase
-} from 'https://raw.githubusercontent.com/littletof/denoext/master/mod.ts';
+} from 'https://raw.githubusercontent.com/littletof/denoext/v0.0.1/mod.ts';
 ```
 
 or just simply
 ```ts
-import { testEach, TestCase } from 'https://raw.githubusercontent.com/littletof/denoext/master/mod.ts';
+import { testEach, TestCase } from 'https://raw.githubusercontent.com/littletof/denoext/v0.0.1/mod.ts';
 ```
 
 ##
