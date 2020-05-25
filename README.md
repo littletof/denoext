@@ -42,5 +42,5 @@ function fnToTest(input: string) {
 ```
 
 The output would look something like this:
-
+![testEach_output.png](https://raw.githubusercontent.com/littletof/denoext/master/docs/img/testEach_output.png)
 
